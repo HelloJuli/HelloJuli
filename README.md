@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @HelloJuli https://jue-gao.com/
+- 👋 Hi, I’m @HelloJuli
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 💞️ https://jue-gao.com/
 - 📫 https://www.linkedin.com/in/jue-gao/
 
 <!---
