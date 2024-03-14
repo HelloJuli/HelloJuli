@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @HelloJuli
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
-- 💞️ http://juegao.io/
+- 💞️ https://juegao.io/
 - 📫 https://www.linkedin.com/in/jue-gao/
 
 <!---
